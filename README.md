@@ -16,4 +16,4 @@ Built using Nodejs, Expressjs and mongoDB
 mlab for monogoDB hosting
 heroku for nodejs hosting
 
-*Designed and Coded by mariapestematzogloy*
+*Designed and Coded by maria pestematzogloy*
