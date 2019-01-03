@@ -1,3 +1,1 @@
-var msg = require('./Messages.js');
-
-console.log(msg);
+var log = require('./app/src/views/home.vue);
