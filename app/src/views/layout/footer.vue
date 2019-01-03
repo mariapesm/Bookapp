@@ -16,7 +16,7 @@
                     <h5>Privacy Policy</h5>
                     <ul>
                         <li>
-                            <a href="https://www.freeprivacypolicy.com/privacy/view/0884550a55f78e677378d286a7f695f4">Privacy Policy for bookapp</a>
+                            <a href="https://www.freeprivacypolicy.com/privacy/view/db15f8ec159b46643839942f2051e35c">Privacy Policy for bookapp</a>
                         </li>
                     </ul>
                 </div>
