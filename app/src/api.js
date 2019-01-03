@@ -1,1 +1,1 @@
-var log = require('./app/src/views/home.vue);
+var log = require('./app/src/views/home.vue');
