@@ -6,25 +6,23 @@
                     <h5>About</h5>
                     <ul>
                         <li>
-                            <a href="https://github.com/mubaidr/Book-Trading-Club#Book-Trading-Club">Service</a>
+                        <p>
+                        A full functional project javascript</p>
                         </li>
-                        <li>
-                            <a href="https://github.com/mubaidr/Book-Trading-Club">Source Code</a>
-                        </li>
-
+                      
                     </ul>
                 </div>
                 <div class="col-sm-4">
-                    <h5>Support</h5>
+                    <h5>Privacy Policy</h5>
                     <ul>
                         <li>
-                            <a href="https://github.com/mubaidr/Book-Trading-Club/issues">Github Issues</a>
+                            <a href="https://www.freeprivacypolicy.com/privacy/view/0884550a55f78e677378d286a7f695f4">Privacy Policy for bookapp</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-sm-4">
                     <p>Designed and Coded by <br/>
-                        <a href="https://mubaidr.github.io">Muhammad Ubaid Raza</a>
+                        maria pestematzogloy @copyright 2019
                     </p>
                 </div>
             </div>
